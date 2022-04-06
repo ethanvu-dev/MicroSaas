@@ -1,0 +1,9 @@
+[submodule "microsaas-infras"]
+	path = microsaas-infras
+	url = https://github.com/ethanvu-dev/microsaas-infras.git
+[submodule "microsaas-auth"]
+	path = microsaas-auth
+	url = https://github.com/ethanvu-dev/microsaas-auth.git
+[submodule "microsaas-catalog"]
+	path = microsaas-catalog
+	url = https://github.com/ethanvu-dev/microsaas-catalog.git
